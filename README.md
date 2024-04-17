@@ -1,6 +1,8 @@
 # Riftbound  
 **TODO: Brief 1-2 sentence description of the game goes here**
 
+The Unity Editor version used in this project is 2022.3.24f1
+
 ## Contributing to the project
 ### Issues (Where do I start?)
 For each feature you are implementing or bug you are fixing, an issue must be created in the [Issues](https://github.com/mohamedghoul/Riftbound/issues) tab. It's not a complicated process at all and realistically only takes 3-5 minutes max. Here's how to do it and some things to keep in mind: 
