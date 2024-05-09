@@ -6,6 +6,9 @@ TagManager:
   tags:
   - CinemachineTarget
   - Opponent
+  - Crystal1
+  - Crystal2
+  - Crystal3
   layers:
   - Default
   - TransparentFX
